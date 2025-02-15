@@ -1,0 +1,13 @@
+C:\Users\msram\source\repos\College\College\bin\Debug\College.exe
+C:\Users\msram\source\repos\College\College\bin\Debug\College.exe.config
+C:\Users\msram\source\repos\College\College\obj\Debug\College.csproj.AssemblyReference.cache
+C:\Users\msram\source\repos\College\College\obj\Debug\College.Form1.resources
+C:\Users\msram\source\repos\College\College\obj\Debug\College.Form2.resources
+C:\Users\msram\source\repos\College\College\obj\Debug\College.Form3.resources
+C:\Users\msram\source\repos\College\College\obj\Debug\College.Form4.resources
+C:\Users\msram\source\repos\College\College\obj\Debug\College.Properties.Resources.resources
+C:\Users\msram\source\repos\College\College\obj\Debug\College.csproj.GenerateResource.cache
+C:\Users\msram\source\repos\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+C:\Users\msram\source\repos\College\College\obj\Debug\College.exe
+C:\Users\msram\source\repos\College\College\obj\Debug\College.pdb
+C:\Users\msram\source\repos\College\College\bin\Debug\College.pdb
